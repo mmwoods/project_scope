@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/40087c29-7d7f-4682-9562-d4630522846f/deploy-status)](https://app.netlify.com/sites/scope/deploys)
+
 # project_scope
 
 For use in Custom Web Design: Project Scope.
